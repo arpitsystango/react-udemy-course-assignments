@@ -1,0 +1,1 @@
+Contains all the assignments for the "React 16 - The Complete Guide (incl. React Router 4 & Redux)" from Udemy.
